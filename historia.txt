@@ -3,4 +3,11 @@ tengo 33 años vive en todo el
  mundo
 hoy hablaremos de su vida
  en  camara parece alto pero no lo es 
+
+experimento 1
+
+experimento 2
+
  master 1
+
+ master 2
